@@ -1,0 +1,9 @@
+[submodule "MathLib"]
+	path = MathLib
+	url = https://github.com/Taleb93/submodule_mathlib.git
+[submodule "StringLib"]
+	path = StringLib
+	url = https://github.com/Taleb93/submodule_stringlib.git
+[submodule "ShapeLib"]
+	path = ShapeLib
+	url = https://github.com/Taleb93/submodule_shape.git
